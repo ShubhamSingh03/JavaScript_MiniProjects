@@ -19,11 +19,11 @@ Includes mini projects like color changer, password generator etc. Added the fun
 
 ## 01. Color Changer App
 
-- ### 📌[LIVE LINK]()
+- ### 📌[LIVE LINK](js-bgcolor.netlify.app)
 
 - ### 📌[YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
 
-- ### 📌[Source Code]()
+- ### 📌[Source Code](https://github.com/ShubhamSingh03/JavaScript_MiniProjects/tree/main/ColorChanger%20App)
 
 
 ### Output Image

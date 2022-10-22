@@ -5,20 +5,19 @@
 ![](https://img.shields.io/badge/JavaScript-CSS-yellow)
 ![](https://img.shields.io/badge/addEventListener-forLoop-red)
 
-
 ![](https://img.shields.io/badge/Shubham-Singh-blue)
 
 <hr>
 
 ## Description
 
-A simple [Background Color Changer]() app when you click on button. Learnt about basics of events and loops in javaScript.
+A simple [Background Color Changer](js-bgcolor.netlify.app) app when you click on button. Learnt about basics of events and loops in javaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- [LIVE Link]()
+- [LIVE Link](js-bgcolor.netlify.app)
 
 - [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
 
