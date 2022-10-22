@@ -17,7 +17,7 @@ A simple [Background Color Changer](https://js-bgcolor.netlify.app/) app when yo
 
 
 ### 📌Links for Project
-- [LIVE Link](https://js-bgcolor.netlify.app/)
+- ### <a href="https://js-bgcolor.netlify.app/" target="_blank">LIVE LINK</a>
 
 - [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
 
