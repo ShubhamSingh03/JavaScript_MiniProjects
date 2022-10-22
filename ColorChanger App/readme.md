@@ -11,13 +11,13 @@
 
 ## Description
 
-A simple [Background Color Changer](js-bgcolor.netlify.app) app when you click on button. Learnt about basics of events and loops in javaScript.
+A simple [Background Color Changer](https://js-bgcolor.netlify.app/) app when you click on button. Learnt about basics of events and loops in javaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- [LIVE Link](js-bgcolor.netlify.app)
+- [LIVE Link](https://js-bgcolor.netlify.app/)
 
 - [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
 
