@@ -30,7 +30,7 @@ Decimal value of 1110012:
 | ------------- | ------------- |
 | power of 2:  | 2<sup>5</sup>	2<sup>4</sup>	2<sup>3</sup>	2<sup>2</sup>	2<sup>1</sup> 2<sup>0</sup> |
 
-1110012 = 1⋅2<sup>5</sup>+1⋅2<sup>4</sup>+1⋅2<sup>3</sup>+0⋅2<sup>2</sup>+0⋅2<sup>1</sup>+1⋅2<sup>0</sup> = 57<sup>10</sup>
+111001<sub>2</sub> = 1⋅2<sup>5</sup>+1⋅2<sup>4</sup>+1⋅2<sup>3</sup>+0⋅2<sup>2</sup>+0⋅2<sup>1</sup>+1⋅2<sup>0</sup> = 57<sup>10</sup>
 
 <hr>
 
