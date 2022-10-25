@@ -11,15 +11,15 @@
 
 ## Description
 
-A [Quiz App]() which have shows random questions and we have to check correct answers. Displays score at the end. Learnt about event listeners and functions in JavaScript.
+A [Quiz App](https://fsjs-quiz.netlify.app/) which have shows random questions and we have to check correct answers. Displays score at the end. Learnt about event listeners and functions in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://fsjs-quiz.netlify.app/)
 
-- #### [YouTube Video Demo]()
+- #### [YouTube Video Demo](https://youtu.be/nGXPJEeD0u4)
 
 <hr>
 

@@ -11,15 +11,15 @@
 
 ## Description
 
-A simple [Accordion](https://js-bgcolor.netlify.app/) Faq app when you click on button it displays the answer as drop-down. Learnt about basics of events, functions, creating elements, appending elements and loops in JavaScript.
+A simple [Accordion](https://accordion-fs.netlify.app/) Faq app when you click on button it displays the answer as drop-down. Learnt about basics of events, functions, creating elements, appending elements and loops in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://accordion-fs.netlify.app/)
 
-- #### [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
+- #### [YouTube Video Demo](https://youtu.be/0yuP3c9CPw4)
 
 <hr>
 
