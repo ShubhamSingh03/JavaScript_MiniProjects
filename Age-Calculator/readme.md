@@ -11,15 +11,15 @@
 
 ## Description
 
-A [Age Calculator]() app which shows the age of a person in YYYY-MM-DD format. Learnt about event listeners, Date and functions in JavaScript.
+A [Age Calculator](https://age-finder.netlify.app/) app which shows the age of a person in YYYY-MM-DD format. Learnt about event listeners, Date and functions in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://age-finder.netlify.app/)
 
-- #### [YouTube Video Demo]()
+- #### [YouTube Video Demo](https://youtu.be/a4060K_U8Hk)
 
 <hr>
 

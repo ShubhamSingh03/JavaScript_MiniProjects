@@ -11,15 +11,15 @@
 
 ## Description
 
-A [Password Generator]() app which generates random password from lowercase, uppercase, symbols and numbers combined of the desired length.
+A [Password Generator](https://pwd-creator.netlify.app/) app which generates random password from lowercase, uppercase, symbols and numbers combined of the desired length.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://pwd-creator.netlify.app/)
 
-- #### [YouTube Video Demo]()
+- #### [YouTube Video Demo](https://youtu.be/M3pFIz4ySoY)
 
 <hr>
 
