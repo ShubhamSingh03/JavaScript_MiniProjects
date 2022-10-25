@@ -11,15 +11,15 @@
 
 ## Description
 
-A [Click The Button]() app counts the number of time a user clicks on the button. Learnt about how event listeners and functions in JavaScript.
+A [Click The Button](https://click-jsbutton.netlify.app/) app counts the number of time a user clicks on the button. Learnt about how event listeners and functions in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://click-jsbutton.netlify.app/)
 
-- #### [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
+- #### [YouTube Video Demo](https://youtu.be/8xrNKBzbyrY)
 
 <hr>
 
