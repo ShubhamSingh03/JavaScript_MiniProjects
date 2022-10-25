@@ -13,7 +13,6 @@
 Includes mini projects like color changer, password generator, jokes generator-api, calculator and many more. Added the functionality. Tech Stack used: HTML, CSS, Bootstrap, JavaScript.
 
 <hr>
-<br>
 
 ## ⭐ Project 01:  Accordion
 
@@ -32,7 +31,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 02:  Age Calculator
 
@@ -51,7 +49,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 03:  Basic Counter
 
@@ -70,7 +67,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 04:  Binary to Decimal
 
@@ -89,7 +85,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 05: Calculator
 
@@ -110,7 +105,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 06:  Click the Button
 
@@ -129,7 +123,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 
 ## ⭐ Project 07: Color Changer App
@@ -148,7 +141,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 ![](./ScreenImagesProjects/JavaScript-Color-Changing-App.png)
 
 <hr>
-<br>
 
 ## ⭐ Project 08:  Jokes Generator - API
 
@@ -169,7 +161,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 09:  Js Quiz App
 
@@ -188,7 +179,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 10:  Password Generator
 
@@ -207,7 +197,6 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 
 <hr>
-<br>
 
 ## ⭐ Project 11:  See What You Type
 
@@ -224,9 +213,8 @@ Includes mini projects like color changer, password generator, jokes generator-a
 
 ![](./ScreenImagesProjects/See-What-You-Type%20(1).png)
 
-
-<hr>
 <br>
+<hr>
 
 
 ### ⭐ Checkout Portfolio & Other Projects
