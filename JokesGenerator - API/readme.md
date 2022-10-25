@@ -12,15 +12,15 @@
 
 ## Description
 
-A [Jokes Generator]() app with the help of Dad Jokes [API](https://icanhazdadjoke.com/) when you click on button it displays  random dad jokes. Learnt about how to fetch and handle APIs in JavaScript.
+A [Jokes Generator](https://randomjokes-api.netlify.app/) app with the help of Dad Jokes [API](https://icanhazdadjoke.com/) when you click on button it displays  random dad jokes. Learnt about how to fetch and handle APIs in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://randomjokes-api.netlify.app/)
 
-- #### [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
+- #### [YouTube Video Demo](https://youtu.be/1mFa8Gsr9NM)
 
 <hr>
 

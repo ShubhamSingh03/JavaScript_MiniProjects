@@ -11,7 +11,7 @@
 
 ## Description
 
-A [Binary to Decimal Converter]() page which converts the inputed binary number to equivalent decimal number. Learnt about event listeners and functions in JavaScript.
+A [Binary to Decimal Converter](https://b2dconverter-js.netlify.app/) page which converts the inputed binary number to equivalent decimal number. Learnt about event listeners and functions in JavaScript.
 
 Used as Reference:
 
@@ -37,9 +37,9 @@ Decimal value of 1110012:
 <br>
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://b2dconverter-js.netlify.app/)
 
-- #### [YouTube Video Demo]()
+- #### [YouTube Video Demo](https://youtu.be/TpiBPNBh_qs)
 
 <hr>
 
