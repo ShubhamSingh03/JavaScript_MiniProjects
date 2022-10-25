@@ -11,15 +11,15 @@
 
 ## Description
 
-A [See What You Type]() app which shows what you are typing in the output box when you inputs in input box. Learnt about event listeners and functions in JavaScript.
+A [See What You Type](https://typing-proplus.netlify.app/) app which shows what you are typing in the output box when you inputs in input box. Learnt about event listeners and functions in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://typing-proplus.netlify.app/)
 
-- #### [YouTube Video Demo]()
+- #### [YouTube Video Demo](https://youtu.be/qotjvTG5oQs)
 
 <hr>
 
