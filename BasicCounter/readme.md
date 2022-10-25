@@ -11,15 +11,15 @@
 
 ## Description
 
-A [Basic Counter]() page which increments or decrements the output counter based on button clicked. Learnt about event listeners and functions in JavaScript.
+A [Basic Counter](https://incrementer.netlify.app/) page which increments or decrements the output counter based on button clicked. Learnt about event listeners and functions in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://incrementer.netlify.app/)
 
-- #### [YouTube Video Demo]()
+- #### [YouTube Video Demo](https://youtu.be/Q9oGAw_O-wo)
 
 <hr>
 
