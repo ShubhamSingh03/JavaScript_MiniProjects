@@ -11,15 +11,15 @@
 
 ## Description
 
-A [Calculator]() app capable of performing mathematical calculations, such as addition, multiplication, subtraction, modulo or division. Learned more about functions in JavaScript.
+A [Calculator](https://fsjs-calculator.netlify.app/) app capable of performing mathematical calculations, such as addition, multiplication, subtraction, modulo or division. Learned more about functions in JavaScript.
 
 <hr>
 
 
 ### 📌Links for Project
-- #### [LIVE Link]()
+- #### [LIVE Link](https://fsjs-calculator.netlify.app/)
 
-- #### [YouTube Video Demo](https://youtu.be/xdoHFdeSXrs)
+- #### [YouTube Video Demo](https://youtu.be/gDPXMoZrMJA)
 
 <hr>
 
